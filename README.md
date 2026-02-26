@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Secondhand MarketPlace<br>I'm looking to collaborate on Backend Dev<br>I'm looking for help with DB & React.JS<br>I'm currently learning Next.js
+I'm currently working on College Management System for Kakate University<br>I'm looking to collaborate on Backend Dev<br>I'm looking for help with DB & React.JS<br>I'm currently learning Next.js
 
 
 ## 🌐 Socials:
