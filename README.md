@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sannith Pasunooti</h1>
+[<h1 align="center">Hi 👋, I'm Sannith Pasunooti</h1>
 
 <h3 align="center">🚀 Full Stack Developer | Backend Enthusiast | Next.js Learner</h3>
 
@@ -128,3 +128,12 @@ while(alive){
     improve();
     repeat();
 }
+```
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+
+<p align="center">
+Keep Learning • Keep Building • Keep Growing 🚀
+</p>
