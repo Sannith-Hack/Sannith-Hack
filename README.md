@@ -1,4 +1,4 @@
-[<h1 align="center">Hi 👋, I'm Sannith Pasunooti</h1>
+<h1 align="center">Hi 👋, I'm Sannith Pasunooti</h1>
 
 <h3 align="center">🚀 Full Stack Developer | Backend Enthusiast | Next.js Learner</h3>
 
